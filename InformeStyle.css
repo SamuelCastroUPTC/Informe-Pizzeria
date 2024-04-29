@@ -1,0 +1,27 @@
+table{
+    text-align: center;
+    background-color: #FFCA03;
+}
+Body {
+    background-color: #FFF323;
+}
+h1, h2, h3{
+    color: #F90716;
+    font-family: "Lugrasimo", cursive;
+    text-align: center;
+}
+h4, h5, h6{
+    color: #FF5403;
+    font-family: "Lugrasimo", cursive;
+}
+hr{
+    border-color: #FFCA03;
+}
+header{
+    text-align: center;
+}
+img{
+    width: 350;
+    height: 350;
+}
+
