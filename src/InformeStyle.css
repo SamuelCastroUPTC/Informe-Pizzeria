@@ -30,3 +30,9 @@ img{
     height: 350px;
 }
 
+.tablaPersona{
+    text-align: center;
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
