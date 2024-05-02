@@ -36,3 +36,9 @@ img{
     display: grid;
     place-items: center;
 }
+.tablaJourneyMap{
+    text-align: center;
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
