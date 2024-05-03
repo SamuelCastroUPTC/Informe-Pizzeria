@@ -42,3 +42,24 @@ img{
     display: grid;
     place-items: center;
 }
+.imgMockups{
+    img{
+        width: 450px;
+        height: 350px;
+    }
+}
+.imgWireframes{
+    img{
+        width: 450px;
+        height: 350px;
+    }
+}
+.imgArquitectura{
+
+    text-align: center;
+
+    img{
+        width: 500px;
+        height: 350px;
+    }
+}
